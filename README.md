@@ -39,7 +39,7 @@ Entre em contato ou acompanhe meus projetos pelas redes abaixo:
 
 ### 🌱 Projetos em destaque
 
-- 🎮 [Conversor de Moedas com tema Solo Leveling](https://ggovane.github.io/projeto-conversor-wons/)  
+- 🎮 [Conversor de Moedas com tema Solo Leveling](https://github.com/ggovane/projeto-conversor-moedas.git)  
 - 🐉 [Página interativa Dragon Ball Z](https://ggovane.github.io/projeto-dbz-site/)
 
 ---
